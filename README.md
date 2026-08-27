@@ -28,7 +28,7 @@ data-cleaning-preprocessing/
 ├── notebooks/
 │   └── data_preprocessing.ipynb
 │
-├── images/
+├── images
 │
 ├── README.md
 └── requirements.txt
