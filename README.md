@@ -29,8 +29,6 @@ data-cleaning-preprocessing/
 │   └── data_preprocessing.ipynb
 │
 ├── images/
-│   ├── age_before.png
-│   └── age_after.png
 │
 ├── README.md
 └── requirements.txt
